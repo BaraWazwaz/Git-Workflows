@@ -1,2 +1,2 @@
 ### Modified
-- `hello.cpp`: made the "hello world" output happen inside a function instead of main.
+- `manage.sh`: Bash script that simplifies maintaining C++ code.
