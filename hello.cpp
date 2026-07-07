@@ -1,6 +1,10 @@
 #include <iostream>
 
+void wave(const std::string& person) {
+	std::cout << "Hello, " << person << "!\n";
+}
+
 int main() {
-	std::cout << "Hello World\n";
+	wave("World");
 	return 0;
 }
